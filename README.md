@@ -5,9 +5,9 @@
 ---
 - [حساب گیت هاب](https://github.com/Zahra-Jamshidi)
 
-- [رزومه](لینک رزومه)
+- [رزومه]()
 
-- [SOP](لینک انگیزه نامه)
+- [SOP]()
 
 
 ------------------
@@ -42,8 +42,16 @@
     <th>شنبه</th>
   </tr>
    <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
      <th ></th>
-     <th ><a  href="https://github.com/Zahra-Jamshidi/PNU-3991-AR/tree/main/Research-And-Presentation-Methods">روش پژوهش و ارائه01-1322010</a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه01-1322010</a></th>
      <th></th>
      <th ></th>
      <th ></th>
