@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/Zahra-Jamshidi)
 
-- [رزومه]()
+- [رزومه](https://Zahra-Jamshidi.github.io)
 
 - [SOP]()
 
