@@ -7,7 +7,7 @@
 
 - [رزومه](https://Zahra-Jamshidi.github.io)
 
-- [SOP]()
+- [SOP](https://zahra-jamshidi.github.io/SOP/)
 
 
 ------------------
