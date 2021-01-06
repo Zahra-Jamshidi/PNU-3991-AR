@@ -41,7 +41,9 @@
     <summary>لاتک</summary>
   
  > ## لاتک
- -
+ - [صفحه 34 کتاب E-Research: Methods, Strategies, and Issues 1st Edition](https://github.com/Zahra-Jamshidi/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Jamshidi-page%2034/page34.pdf)
+ - [صفحه 35 کتاب E-Research: Methods, Strategies, and Issues 1st Edition](https://github.com/Zahra-Jamshidi/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Jamshidi-page35/page35.pdf)
+ - [صفحه 36 کتاب E-Research: Methods, Strategies, and Issues 1st Edition](https://github.com/Zahra-Jamshidi/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Jamshidi-page%2036/page%2036.pdf)
   
 [<kbd>↩</kbd>](#TOC)
 </details>
