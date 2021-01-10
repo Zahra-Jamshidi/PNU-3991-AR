@@ -54,7 +54,8 @@
     <summary>بیمر</summary>
   
  > ## بیمر
-
+ - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه کتبی خلاصه ی کتاب ](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/amini.beamer/amini.pdf)
+ - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه شفاهی خلاصه ی کتاب ]()
  
  
 [<kbd>↩</kbd>](#TOC)
