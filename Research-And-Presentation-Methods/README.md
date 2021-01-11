@@ -55,7 +55,7 @@
   
  > ## بیمر
  - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه کتبی خلاصه ی کتاب ](https://github.com/Zahra-Jamshidi/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Jamshidi-beamer/beamer.pdf)
- - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه شفاهی خلاصه ی کتاب ]()
+ - [E-Research: Methods, Strategies, and Issues 1st Edition ارائه شفاهی خلاصه ی کتاب ](https://github.com/Zahra-Jamshidi/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%B4%D9%81%D8%A7%D9%87%DB%8C%20%D9%84%D8%A7%D8%AA%D9%83-%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%DB%8C.m4a)
  
  
 [<kbd>↩</kbd>](#TOC)
