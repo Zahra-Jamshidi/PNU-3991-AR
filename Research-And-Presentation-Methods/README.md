@@ -36,8 +36,7 @@
   
 [<kbd>↩</kbd>](#TOC)
 </details>
-[<kbd>↩</kbd>](#TOC)
-</details>
+
 
 ----------------
 <a name="RelatedLatex"></a>
